@@ -1,4 +1,4 @@
-This is an interactive twitter listener with a bsic user interface.
+This is an interactive twitter listener with a basic user interface.
 
 It asks the user for thier preferences and streams tweets into a json file based on those preferences.
 
