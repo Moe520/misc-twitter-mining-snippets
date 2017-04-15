@@ -181,7 +181,7 @@ def stream_json_file(json_file_name ,output_file_name = "parsed_tweets.csv", sto
 ## output_file_name = what the csv that is output should be called eg "my_output.csv"
 ## stop at = how many tweets to parse e.g 1000000 (if you leave it blank it will parse up to a billion tweets)
 
-stream_json_file(json_file_name="comparison.json",output_file_name = "my_output2.csv", stop_at = 2000)
+stream_json_file(json_file_name="comparison.json",output_file_name = "my_output2.csv", stop_at = 10000000)
 
 
 # In[ ]:
