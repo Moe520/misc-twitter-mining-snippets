@@ -1,1 +1,1 @@
-Python Scripts for handling Twitter Data
+Various python snippets and scripts for handling twitter data
